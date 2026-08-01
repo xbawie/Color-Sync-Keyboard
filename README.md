@@ -1,4 +1,4 @@
-# ⚡ Lumina RGB Studio Pro
+# ⚡ Put a awsome name here
 
 > A modern, lightweight, high-performance desktop screen ambience synchronization engine for OpenRGB-compatible keyboards.
 
